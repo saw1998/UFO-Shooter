@@ -14,4 +14,10 @@ A c++ game from scratch
   * make
 * Execute
   * $ ./UFO-Shooter
-    
+
+# Demo
+
+https://github.com/saw1998/UFO-Shooter/assets/42498505/fee907ec-6d8c-4a11-b4ea-64e6ae92b272
+
+* For higher quality video checkout Demo video in asset folder
+
